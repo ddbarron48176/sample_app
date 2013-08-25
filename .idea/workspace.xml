@@ -6,6 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="d4f3f9aa-b49a-416f-9bd6-ded29e88ba30" time="1377448435689" ignored="false" />
     <file path="/secret_token.rb" changelist="d4f3f9aa-b49a-416f-9bd6-ded29e88ba30" time="1377449417102" ignored="false" />
+    <file path="/README.rdoc" changelist="d4f3f9aa-b49a-416f-9bd6-ded29e88ba30" time="1377449554895" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +35,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="secret_token.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="secret_token.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/initializers/secret_token.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="804" selection-end="804" vertical-scroll-proportion="0.83113456">
+            <state line="25" column="0" selection-start="804" selection-end="804" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.rdoc" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.rdoc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="30" selection-start="287" selection-end="287" vertical-scroll-proportion="0.34438777">
               <folding />
             </state>
           </provider>
@@ -55,6 +65,7 @@
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/initializers/secret_token.rb" />
+        <option value="$PROJECT_DIR$/README.rdoc" />
       </list>
     </option>
   </component>
@@ -413,7 +424,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/initializers/secret_token.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="804" selection-end="804" vertical-scroll-proportion="0.83113456">
+        <state line="25" column="0" selection-start="804" selection-end="804" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.rdoc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="30" selection-start="287" selection-end="287" vertical-scroll-proportion="0.34438777">
           <folding />
         </state>
       </provider>
